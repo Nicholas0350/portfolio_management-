@@ -1,2 +1,4 @@
 # portfolio_management-
-Hello World 
+
+This project is about CFA/ Trading nomenclature & calculators used. 
+# Motivation
